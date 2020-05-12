@@ -1,0 +1,37 @@
+.full-screen{
+    min-height: 100vh;
+}
+
+.half-screen{
+    min-height: 50vh;
+}
+
+.space{
+    padding-top: 10%!important;
+    padding-bottom: 10%!important;
+}
+
+.space-xs{
+    padding-top: 2%!important;
+    padding-bottom: 2%!important;
+}
+
+.bg-color-transparent{
+    background-color: transparent!important;
+}
+.bg-color-0{
+    background-color: #ffffff;
+}
+
+.bg-color-1{
+    background-color:tomato;
+}
+
+.bg-color-2{
+    background-color: thistle;
+}
+
+.bg-color-3{
+    background-color: turquoise;
+}
+
